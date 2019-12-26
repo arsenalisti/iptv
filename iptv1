@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,RTK 1                                    (Porosit24)
+#EXTINF:-1,RTK 1                                    (Arsenalisti)
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
@@ -8,6 +8,10 @@ http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1,ALB UK HD
 rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
 #EXTINF:-1,Rrokum HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="24/7 ABC NEWS LIVE",ABC News Live 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1,Opoja TV
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
@@ -64,14 +68,22 @@ http://91.187.117.230:8080
 http://edge01eu.ekranet.com/elroditv_240p/index.m3u8?e=k6reyce8z5i3u9tbvf&c=elroditv&mac=00:1A:79:28:07:98
 #EXTINF:-1,Euro AL
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KyAjfYY.png" group-title="USA",Fox News
+http://51.159.18.117:8000/jt6MfjFNn0/cQTgIUqlyM/89
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K4wdk9.png" group-title="UK",BT Sport 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
 #EXTINF:-1,ScanTV
 http://edge01eu.ekranet.com/scantv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=scantv&mac=00:1A:79:28:07:98
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0z9v4j0.png" group-title="UK",BT Sport ESPN
+https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,JugTV
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,GlobiTV 
@@ -80,9 +92,22 @@ rtmp://globi.shqiptv.us:1935/live/globitv
 http://79.106.102.68/hls/rtvnje.m3u8
 #EXTINF:-1,Peace TV
 rtmp://82.114.67.178/live/peacetv1
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="USA GEO",CBS Sports HQ (Geo)
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RKisov.png" group-title="UK",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="UK",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="UK",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="UK",Motorsport TV
+http://45.58.62.92:8084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfUmapZ.png" group-title="UK",Sky Sports Main Event
+https://sportbar.biz/lba/123/g2/maineventss.m3u8?fluxustv.m3u8
 #EXTINF:-1,Arena SPORT 1
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,Arena SPORT 2
