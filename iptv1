@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1,RTK 1                                    (Porosit24)
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,ALB UK HD
+rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
+#EXTINF:-1,Rrokum HD
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1,Opoja TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,RTVZiK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1,Topestrada 
+rtmp://89.163.208.115/live/topestrada/livestream
+#EXTINF:-1,TV Tetova
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:-1,ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,OraNews
+http://145.239.2.153:8081/oranews/live/chunks.m3u8
+#EXTINF:-1,ReportTV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1,Syri Vision
+rtmp://37.26.69.49:80/live//syri
+#EXTINF:-1,KOHA TV 
+rtmp://live.tvkoha.tv/live/koha/livestream
+
+#EXTINF:-1,RTSH 1
+http://edge01eu.ekranet.com/rtshhd_low/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshhd1&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH 2 
+http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshhd2&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH 3
+http://edge01eu.ekranet.com/rtsh3hd1/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshhd3&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Telesport
+http://edge01eu.ekranet.com/telesport/index.m3u8?e=k6reyce8z5i3u9tbvf&c=telesport&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Sport 
+http://edge01eu.ekranet.com/rtshsport1/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshsport&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Femije
+http://edge01eu.ekranet.com/rtshfemije_240p/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshfemije&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Film
+http://edge01eu.ekranet.com/rtshfilm1/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshfilm&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Shqip
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshshqip&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH 24
+http://edge01eu.ekranet.com/rtsh24/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtsh24&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Plus
+http://edge01eu.ekranet.com/rtshplus_240p/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshplus&mac=00:1A:79:28:07:98
+#EXTINF:-1,RTSH Muzike
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshmuzike&mac=00:1A:79:28:07:98
+#EXTINF:-1,TemaTV
+http://edge01eu.ekranet.com/tematv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=tematv&mac=00:1A:79:28:07:98
+#EXTINF:-1,ZjarrTV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=zjarrtv&mac=00:1A:79:28:07:98
+
+#EXTINF:-1, IN TV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Dasma TV 
+http://91.187.117.230:8080
+#EXTINF:-1,Elrodi TV
+http://edge01eu.ekranet.com/elroditv_240p/index.m3u8?e=k6reyce8z5i3u9tbvf&c=elroditv&mac=00:1A:79:28:07:98
+#EXTINF:-1,Euro AL
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+
+
+
+
+#EXTINF:-1,ScanTV
+http://edge01eu.ekranet.com/scantv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=scantv&mac=00:1A:79:28:07:98
+
+
+#EXTINF:-1,JugTV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1,GlobiTV 
+rtmp://globi.shqiptv.us:1935/live/globitv
+#EXTINF:-1,Rtv1
+http://79.106.102.68/hls/rtvnje.m3u8
+#EXTINF:-1,Peace TV
+rtmp://82.114.67.178/live/peacetv1
+
+
+
+#EXTINF:-1,Arena SPORT 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,Arena SPORT 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,Arena SPORT 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,Arena SPORT 4
+http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-1, ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://195.206.253.157:8001/eurosport2hd
+
+#EXTINF:-1, One 
+http://rtmp.one.by:1200
+#EXTINF:-1, One HD 
+http://rtmp.one.by:1300
+#EXTINF:-1, My Hit 
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1, Music Box UA 
+rtmp://212.26.132.86/live/mb_ua 
+#EXTINF:-1, Virgin TV 
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1, Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1, Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1, Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,BLOOMBERG
+http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/live.m3u8
+
+#EXTINF:-1,Rai 5
+http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai YoYo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1,TV 2000
+http://cld02ibi16.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+#EXTINF:-1, Telearena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1, Telepavia
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+
+
+#EXTINF:-1,DW
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,AUSTRIA 24 TV
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1,BLK Regional TV Burgenlandkreis
+rtmp://62.113.210.250/medienasa-live//BLKonline_high
+#EXTINF:-1,DAF
+rtmp://fms.daf.tmt.de/live/dafstream100
+#EXTINF:-1,DAS NEUE TV
+rtmp://83.169.58.36/live/DasneueTV
+#EXTINF:-1,Augsburg TV
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1,ElbekanalL
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1,Family TV 
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1,Halle TV
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1,eo TV
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1,ATV
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:-1,OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:-1,OK Magdeburg
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:-1,OK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
+#EXTINF:-1,OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1,OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+
+#EXTINF:-1,Kral Tv
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,TRT Okul
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1,TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1,TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1,TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT Arapca
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1,TRT Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
