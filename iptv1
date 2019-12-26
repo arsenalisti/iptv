@@ -29,7 +29,6 @@ http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 rtmp://37.26.69.49:80/live//syri
 #EXTINF:-1,KOHA TV 
 rtmp://live.tvkoha.tv/live/koha/livestream
-
 #EXTINF:-1,RTSH 1
 http://edge01eu.ekranet.com/rtshhd_low/index.m3u8?e=k6reyce8z5i3u9tbvf&c=rtshhd1&mac=00:1A:79:28:07:98
 #EXTINF:-1,RTSH 2 
